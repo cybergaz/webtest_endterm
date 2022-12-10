@@ -8,14 +8,14 @@ body {
 }
 
 .responsive {
-    width: 200%;
+    width: 100%;
     margin: 0 auto;
     height: auto;
 }
 
 img {
     padding: 15px;
-    width:100%;
+    width:80%;
     border-radius: 30px;
 }
 
